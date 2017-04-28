@@ -1,9 +1,15 @@
-# lab-dw-2017-1
+# lab-dw-2017-3
 Laboratório de Desenvolvimento de Software para a Web de 2017/1.
+
+Calculo do IMC com JSP e MVC através do apache tom cat do eclipse
 
 ## Obtendo o projeto
 
 `git clone https://github.com/walison-moreira-ufg/lab-dw-2017-1`
+
+## Base para rodar o TomCat 8
+
+https://github.com/mariomjr/ufg-inf-dw-2016-1/tree/master/src/site
 
 ## Executando a aplicação
 
